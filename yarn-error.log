@@ -1,0 +1,44 @@
+Arguments: 
+  /usr/bin/node /usr/share/yarn/bin/yarn.js publish --access public
+
+PATH: 
+  /usr/include/gcc-arm-none-eabi-6-2017-q2-update/bin:/Applications/idea-IC-163.13906.18/bin:/home/subhasis/.cargo/bin:/home/subhasis/bin:/home/subhasis/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin:/home/subhasis/.go/bin:/usr/lib/go/bin:/usr/local/go/bin:/root/Android/Sdk/tools:/root/Android/Sdk/tools/bin:/root/Android/Sdk/platform-tools:/opt/gradle-4.5.1/bin:/home/subhasis/genymotion:/home/subhasis/.cargo/bin
+
+Yarn version: 
+  1.2.1
+
+Node version: 
+  8.9.4
+
+Platform: 
+  linux x64
+
+npm manifest: 
+  {
+    "name": "vue-create-props",
+    "version": "1.0.0",
+    "description": "create vuejs prop types",
+    "main": "index.js",
+    "repository": "https://github.com/maitysubhasis/vue-create-props.git",
+    "author": "holasm <hola.maity@gmail.com>",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: https://registry.yarnpkg.com/vue-create-props: you must verify your email before publishing a new package: https://www.npmjs.com/email-edit
+      at Request.params.callback [as _callback] (/usr/share/yarn/lib/cli.js:62027:18)
+      at Request.self.callback (/usr/share/yarn/lib/cli.js:123011:22)
+      at emitTwo (events.js:126:13)
+      at Request.emit (events.js:214:7)
+      at Request.<anonymous> (/usr/share/yarn/lib/cli.js:123994:10)
+      at emitOne (events.js:116:13)
+      at Request.emit (events.js:211:7)
+      at Gunzip.<anonymous> (/usr/share/yarn/lib/cli.js:123914:12)
+      at Object.onceWrapper (events.js:313:30)
+      at emitNone (events.js:111:20)

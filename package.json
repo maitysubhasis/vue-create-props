@@ -1,0 +1,9 @@
+{
+  "name": "vue-create-props",
+  "version": "1.0.0",
+  "description": "create vuejs prop types",
+  "main": "index.js",
+  "repository": "https://github.com/maitysubhasis/vue-create-props.git",
+  "author": "holasm <hola.maity@gmail.com>",
+  "license": "MIT"
+}
